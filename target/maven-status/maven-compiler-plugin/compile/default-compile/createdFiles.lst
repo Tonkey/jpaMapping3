@@ -1,0 +1,9 @@
+entities\Customer_.class
+entities\Customer.class
+entities\DiscountFixed.class
+entities\DiscountQuantity_.class
+test\Structure.class
+entities\DiscountFixed_.class
+entities\DiscountType.class
+entities\DiscountQuantity.class
+entities\DiscountType_.class
